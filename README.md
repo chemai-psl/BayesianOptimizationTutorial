@@ -1,9 +1,25 @@
+# Bayesian Optimization
+
+
+Introductionary tutorial to run your own Bayesian Optimization campaign.
+
+If you are part of ChemAI or PSL university, feel free to reach out if you need any support or if you
+
+- want to adopt our solutions within your own projects
+- need help with the setup
+- are interested in Bayesian Optimization in general
+- are interested in a code-free UI solution for your lab
+- got another reason
+
+
 # HSF-ChemBO-tutorial
 
-A tutorial on quick adoption of our proposed dimension-aware hyperprior for hidden-space representations in chemical Bayesian optimization.
+This tutorial is a quick adoption of our proposed dimension-aware hyperprior for hidden-space representations in chemical Bayesian optimization.
 The environment is based on [BayBE 0.12.2](https://emdgroup.github.io/baybe/0.12.2/) with Python 3.11.
 
-For all the code and data used in the paper **Leveraging Hidden-Space Representations Effectively in Bayesian Optimization for Experiment Design through Dimension-Aware Hyperpriors**, see another [repo](https://github.com/chimie-paristech-CTM/HSF-ChemBO).
+The underlying publication **Leveraging Hidden-Space Representations Effectively in Bayesian Optimization for Experiment Design through Dimension-Aware Hyperpriors**, can be found [here](https://doi.org/10.1021/acs.jctc.6c00251). A follow up on transfer learning is available [here](https://doi.org/10.1039/d6dd00527f).
+
+Our dimension-aware hyperprior is implemented as a default in newer versions of BayBE.
 
 
 ### Quickstart:
